@@ -6,5 +6,7 @@ Utiliza un cifrado muy débil (RSA de 32 bits) y sólo cifra los documentos de l
 ## Nota
 
 Version de estudio compartida con la comunidad 8noobs para fines educativos.
-Gracias a 3rik 3l rojo, no cambies nunca. 
+
+Gracias a 3rik 3l rojo, no cambies nunca.
+ 
 PD: No te preocupes yo lo hago. 
